@@ -32,21 +32,34 @@ This project helps manage key accounting operations like **Income Tax**, **Balan
 
 ### 🔐 Login Screen
 ![Login Screen](screenshots/ca1.png)
+![Login Screen](screenshots/ca2.png)
 
-### 🧭 Main Menu
-![Main Menu](screenshots/ca2.png)
 
-### 👥 Add Client Details
-![Add Client](screenshots/ca3.png)
+### 🧭 Main Menu screen
+![Main Menu screen](screenshots/ca3.png)
 
-### 📄 Income Tax Details
-![Income Tax](screenshots/ca4.png)
 
-### 📊 Balance Sheet Form
-![Balance Sheet](screenshots/ca5.png)
+### 👥 Client screens
+![Add Client screens](screenshots/ca4.png)
+![Add Client screens](screenshots/ca5.png)
+![Add Client screens](screenshots/ca6.png)
+![Add Client screens](screenshots/ca7.png)
+![Add Client screens](screenshots/ca8.png)
 
-### 🔄 Audit Status Auto-Update
-![Audit Auto Update](screenshots/ca6.png)
+
+### 👥 Company screens
+![Company screens](screenshots/ca9.png)
+![Company screens](screenshots/ca10.png)
+![Company screens](screenshots/ca11.png)
+![Company screens](screenshots/ca12.png)
+![Company screens](screenshots/ca13.png)
+![Company screens](screenshots/ca14.png)
+![Company screens](screenshots/ca17.png)
+
+
+### 👥 CA staff/user screens
+![CA staff/user screens](screenshots/ca15.png)
+![CA staff/user screens](screenshots/ca16.png)
 
 
 ---
