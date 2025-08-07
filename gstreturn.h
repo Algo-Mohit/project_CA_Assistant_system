@@ -173,7 +173,6 @@ public:
             if (strcmp(this->gst_number, input_gst_number) == 0)
             {
                 // Print formatted GST bill
-                system("clear");
                 cout << "==============================================\n"
                      << "                   GST BILL                   \n"
                      << "==============================================\n"
