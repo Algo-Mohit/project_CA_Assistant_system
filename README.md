@@ -1,3 +1,5 @@
+![banner](screenshots/banner.jpeg)
+
 # 💼 CA Assistant System
 
 A command-line based ** Chartered Accountant Assistant System ** built using C++. 
